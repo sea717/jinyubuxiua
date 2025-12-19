@@ -1,5 +1,3 @@
-# jinyubuxiua
-金缕玉衣三维动画毕业设计展示网站
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
